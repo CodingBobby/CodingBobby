@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey!
 
-<!--
-**CodingBobby/CodingBobby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Bob and I'm mostly writing in Python and JavaScript. I also use LaTeX to write documents.
 
-Here are some ideas to get you started:
+#### What I'm currently working on
+- [Traktify](https://github.com/CodingBobby/traktify) which is a desktop client for [trakt.tv](https://trakt.tv)
+- [Rectipy](https://github.com/CodingBobby/rectipy) which is intended to be useful for students in chemical engineering (like myself)
+- Study projects that take up a lot of time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=CodingBobby&hide=contribs&show_icons=true&hide_border=true&title_color=000)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=CodingBobby.CodingBobby)
+![GitHub followers](https://img.shields.io/github/followers/CodingBobby?style=social) 
