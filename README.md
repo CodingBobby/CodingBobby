@@ -10,5 +10,4 @@ You can call me Bob and I'm mostly writing in Python and JavaScript. I also use 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=CodingBobby&hide=contribs&show_icons=true&hide_border=true&title_color=000)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CodingBobby.CodingBobby)
 ![GitHub followers](https://img.shields.io/github/followers/CodingBobby?style=social) 
