@@ -1,6 +1,6 @@
 ### Hey!
 
-My name is Bob and I'm mostly writing in Python and JavaScript. I also use LaTeX to write documents.
+You can call me Bob and I'm mostly writing in Python and JavaScript. I also use LaTeX to write documents.
 
 #### What I'm currently working on
 - My redesigned [blog](https://codingbobby.xyz)
